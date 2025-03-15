@@ -17,7 +17,29 @@ The **Dhro Algorithm (Dynamic Heuristic Resource Optimization)** is an intellige
  ├── 📄 README.md          # Project documentation 
  
  ├── 📄 requirements.txt   # Dependencies (if required)  
+▶️ Usage
+Run the algorithm using:
 
-Replace `SANJAY BASKAR` with your actual **SANJAY-BASKAR** before uploading.  
+bash
+Copy
+Edit
+python dhro_algorithm.py
+You can modify the exam data inside dhro_algorithm.py or provide an external JSON file for input.
 
-Let me know if you want **any modifications**! 🚀
+
+🏆 Why Choose Dhro?
+✔️ Handles large-scale exams efficiently
+✔️ Ensures fair scheduling with minimal student conflicts
+✔️ Automates room allocation dynamically
+✔️ Optimized for performance and scalability
+
+📜 License
+This project is open-source under the MIT License.
+
+📢 Contributing
+Contributions are welcome! If you'd like to enhance the algorithm, submit a pull request or open an issue.
+
+🔗 GitHub Repository
+🔗 GitHub Repository
+
+🔥 Developed with 💡 by [Your Name]
