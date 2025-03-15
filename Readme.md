@@ -20,12 +20,18 @@ The **Dhro Algorithm (Dynamic Heuristic Resource Optimization)** is an intellige
 ---
 
 ## 📂 Project Structure  
-```
-📁 Dhro-Algorithm  
- ├── 📄 dhro_algorithm.py   # Main Python implementation  
- ├── 📄 README.md           # Project documentation  
- ├── 📄 requirements.txt    # Dependencies  
-```
+📁 Dhro-Algorithm
+├── 📄 dhro_algorithm.py # Main Python implementation
+├── 📄 README.md # Project documentation
+├── 📄 requirements.txt # Dependencies
+├── 📄 LICENSE # License file (MIT or any other license)
+├── 📁 tests # Unit tests for validation
+│ ├── 📄 test_conflict_graph.py
+│ ├── 📄 test_scheduling.py
+│ ├── 📄 test_room_assignment.py
+├── 📁 results # Stores generated schedules
+│ ├── 📄 output_schedule.txt
+│ ├── 📄 output_schedule.json
 
 ---
 
