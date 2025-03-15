@@ -17,3 +17,7 @@ The **Dhro Algorithm (Dynamic Heuristic Resource Optimization)** is an intellige
  ├── 📄 README.md          # Project documentation 
  
  ├── 📄 requirements.txt   # Dependencies (if required)  
+
+Replace `SANJAY BASKAR` with your actual **SANJAY-BASKAR** before uploading.  
+
+Let me know if you want **any modifications**! 🚀
