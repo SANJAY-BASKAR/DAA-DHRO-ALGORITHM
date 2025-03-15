@@ -1,0 +1,6 @@
+Final Exam Schedule:
+Math - Time Slot 0 - Room A
+Physics - Time Slot 1 - Room B
+Chemistry - Time Slot 2 - Room C
+Biology - Time Slot 3 - Room D
+English - Time Slot 4 - Room A
