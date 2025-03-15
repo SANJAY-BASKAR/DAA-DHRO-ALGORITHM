@@ -13,6 +13,7 @@ The **Dhro Algorithm (Dynamic Heuristic Resource Optimization)** is an intellige
 ## 📂 Project Structure  
 📁 Dhro-Algorithm  
  ├── 📄 dhro_algorithm.py  # Main Python implementation  
+ 
  ├── 📄 README.md          # Project documentation 
  
  ├── 📄 requirements.txt   # Dependencies (if required)  
