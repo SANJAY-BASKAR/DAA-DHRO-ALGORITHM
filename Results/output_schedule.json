@@ -1,0 +1,7 @@
+{
+    "Math": { "time_slot": 0, "room": "Room A" },
+    "Physics": { "time_slot": 1, "room": "Room B" },
+    "Chemistry": { "time_slot": 2, "room": "Room C" },
+    "Biology": { "time_slot": 3, "room": "Room D" },
+    "English": { "time_slot": 4, "room": "Room A" }
+}
